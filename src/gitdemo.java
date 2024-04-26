@@ -8,5 +8,6 @@ public class gitdemo {
         System.out.println("hot-fix test");
         System.out.println("push to github test");
         System.out.println("push to github test with ssh");
+        System.out.println("pull test");
     }
 }
